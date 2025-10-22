@@ -1,5 +1,6 @@
 # EvaluacionU1
 ##¿Qué es una rama?
+
 Una rama en GitHub Desktop es una versión alternativa del proyecto donde puedes trabajar en cambios sin afectar el código principal. Sirve para desarrollar nuevas funciones, corregir errores o probar ideas de forma segura.
 
 ##¿Qué es la rama main?
